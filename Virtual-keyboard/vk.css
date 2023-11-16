@@ -3,7 +3,12 @@ body {
 }
 
 .container{
+    display: flex;
     margin: 200px 0 0 240px;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
 }
 
 .row{
